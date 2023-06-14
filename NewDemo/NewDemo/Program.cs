@@ -13,7 +13,13 @@ namespace NewDemo
             GitDemo gitDemo = new GitDemo();
             
             gitDemo.Demo();
-            
+
+            //Console.ReadLine();
+
+            UC2_Demo uc2_Demo = new UC2_Demo();
+
+            uc2_Demo.demo();
+
             Console.ReadLine();
         }
     }
